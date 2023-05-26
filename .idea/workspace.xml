@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8054d3ea-ee23-4f7c-be46-8ae7040071ae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2BZZhEDKqS7oztwgzbnNi5rtryY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Intelij/IdeaProjects/SoftuniJavaPathCourses/SoftuniAdvancedCourse/SoftuniAdvancedPart2(OOP)/SoftuniAdvancedPart2.2/JavaOOPExam",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SOLIDExercise" />
+      <recent name="Polymorphism" />
+      <recent name="EncapsulationExersice.pizza" />
+      <recent name="EncapsulationExersice.shop" />
+      <recent name="EncapsulationExersice.AnimalFarm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intelij\IdeaProjects\JavaAdvancedOOP\src\ReflectionExercise" />
+      <recent name="D:\Intelij\IdeaProjects\JavaAdvancedOOP\src\InterfaceAndAbstractClassesExercise\FoodShortage" />
+      <recent name="D:\Intelij\IdeaProjects\JavaAdvancedOOP\src\workingWithAbstractionExercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DesignPattens.Main">
+    <configuration name="DesignPattens.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattens.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.EnterNumbers" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise1" />
+      <module name="JavaAdvancedOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="workingWithAbstractionExercise.Cards.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workingWithAbstractionExercise.Cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReflectionExercise.barracksWars.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReflectionExercise.barracksWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceAndAbstractClasses.SayHello.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceAndAbstractClasses.SayHello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceAndAbstractClassesExercise.FoodShortage.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceAndAbstractClassesExercise.FoodShortage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceAndAbstractClassesExercise.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceAndAbstractClassesExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismExercise.Vehicles.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolymorphismExercise.Vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EncapsulationExersice.chicken.Main" />
+      <module name="JavaAdvancedOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EncapsulationExersice.chicken.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesignPattens.Main" />
+        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.EnterNumbers" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8054d3ea-ee23-4f7c-be46-8ae7040071ae" name="Changes" comment="" />
+      <created>1657115688097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657115688097</updated>
+      <workItem from="1680346310247" duration="362000" />
+      <workItem from="1680347128569" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workingWithAbstractionExercise/Cards/CardSuit.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workingWithAbstractionExercise/Cards/Card.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workingWithAbstractionExercise/Cards/CardRank.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workingWithAbstractionExercise/jediGalaxy/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/Box.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/shop/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Topping.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/workingWithAbstraction/FoodShortage/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Vehicles/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Vehicles/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Vehicles/Truck.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PolymorphismExercise/WildFarm/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PolymorphismExercise/WildFarm/Cat.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PolymorphismExercise/WildFarm/Mouse.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PolymorphismExercise/WildFarm/Zebra.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PolymorphismExercise/WildFarm/Tiger.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SOLIDExercise/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reflection/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reflection/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/data/UnitRepository.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/factories/UnitFactoryImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/Engine.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/interfaces/Unit.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Topping.java</url>
+          <line>6</line>
+          <properties class="EncapsulationExersice.pizza.Topping" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Topping.java</url>
+          <line>11</line>
+          <properties class="EncapsulationExersice.pizza.Topping" method="setToppingType">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Topping.java</url>
+          <line>25</line>
+          <properties class="EncapsulationExersice.pizza.Topping" method="setWeight">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Topping.java</url>
+          <line>29</line>
+          <properties class="EncapsulationExersice.pizza.Topping" method="calculateCalories">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Dough.java</url>
+          <line>7</line>
+          <properties class="EncapsulationExersice.pizza.Dough" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Dough.java</url>
+          <line>13</line>
+          <properties class="EncapsulationExersice.pizza.Dough" method="setFlourType">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Dough.java</url>
+          <line>23</line>
+          <properties class="EncapsulationExersice.pizza.Dough" method="setBakingTechnique">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Dough.java</url>
+          <line>35</line>
+          <properties class="EncapsulationExersice.pizza.Dough" method="setWeight">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Dough.java</url>
+          <line>43</line>
+          <properties class="EncapsulationExersice.pizza.Dough" method="calculateCalories">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>11</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>16</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="setName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>24</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="getName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>28</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="setDough">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>32</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="setToppings">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>41</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="addTopping">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExersice/pizza/Pizza.java</url>
+          <line>45</line>
+          <properties class="EncapsulationExersice.pizza.Pizza" method="getOverallCalories">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Vehicles/Truck.java</url>
+          <line>5</line>
+          <properties class="PolymorphismExercise.Vehicles.Truck">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Car.java</url>
+          <line>18</line>
+          <properties class="Polymorphism.Car" method="driveCar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Bus.java</url>
+          <line>10</line>
+          <properties class="Polymorphism.Bus" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Bus.java</url>
+          <line>17</line>
+          <properties class="Polymorphism.Bus" method="driveEmptyBus">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Polymorphism/Bus.java</url>
+          <line>27</line>
+          <properties class="Polymorphism.Bus" method="driveBus">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SOLIDExercise/CalorieCalculator.java</url>
+          <line>18</line>
+          <properties class="SOLIDExercise.CalorieCalculator" method="sum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SOLIDExercise/CalorieCalculator.java</url>
+          <line>35</line>
+          <properties class="SOLIDExercise.CalorieCalculator" method="average">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/Files/Main.java</url>
+          <line>14</line>
+          <properties class="ReflectionExercise.Files.Main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/Engine.java</url>
+          <line>36</line>
+          <properties class="ReflectionExercise.barracksWars.core.Engine" method="run">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/Engine.java</url>
+          <line>60</line>
+          <properties class="ReflectionExercise.barracksWars.core.Engine" method="interpretCommand">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/interfaces/UnitFactory.java</url>
+          <line>8</line>
+          <properties class="ReflectionExercise.barracksWars.interfaces.UnitFactory" method="createUnit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/factories/UnitFactoryImpl.java</url>
+          <line>31</line>
+          <properties class="ReflectionExercise.barracksWars.core.factories.UnitFactoryImpl" method="createUnit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/models/units/AbstractUnit.java</url>
+          <line>8</line>
+          <properties class="ReflectionExercise.barracksWars.models.units.AbstractUnit" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/factories/UnitFactoryImpl.java</url>
+          <line>19</line>
+          <properties class="ReflectionExercise.barracksWars.core.factories.UnitFactoryImpl" method="createUnit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/Engine.java</url>
+          <line>29</line>
+          <properties class="ReflectionExercise.barracksWars.core.Engine" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReflectionExercise/barracksWars/core/commands/Command.java</url>
+          <line>28</line>
+          <properties class="ReflectionExercise.barracksWars.core.commands.Command" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.reflect.Field" memberName="slot" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
